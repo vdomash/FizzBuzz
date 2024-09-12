@@ -36,7 +36,7 @@ class FizzBuzz {
         while (i < 100) {
             i = doFizzBuzz(i);
         }
-        System.out.println("done and done");
+        System.out.println("done and done and done");
     }
 
     public static int doFizzBuzz(int i) {
